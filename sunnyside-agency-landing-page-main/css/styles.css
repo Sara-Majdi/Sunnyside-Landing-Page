@@ -3,8 +3,6 @@
     padding: 0;
 }
 
-
-
 .logo {
 margin-left: 40px;
 width: 13%;
@@ -88,7 +86,7 @@ cursor: pointer;
 
 /*BANNER*/
 .banner{
-    background-image: url(/sunnyside-agency-landing-page-main/images/desktop/image-header.jpg);
+    background-image: url('../images/desktop/image-header.jpg');
     background-position: center;
     background-size: cover;
     height: 750px;
@@ -220,6 +218,7 @@ cursor: pointer;
     position: relative;
     text-align: center;
     color: wheat;
+    width: 100%;
 }
 
 
